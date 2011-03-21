@@ -1,0 +1,137 @@
+<mockup version="1.0" skin="sketch" measuredW="998" measuredH="483" mockupW="998" mockupH="483">
+  <controls>
+    <control controlID="197" controlTypeID="com.balsamiq.mockups::Canvas" x="0" y="0" w="862" h="483" measuredW="100" measuredH="70" zOrder="0" locked="false" isInGroup="-1"/>
+    <control controlID="198" controlTypeID="com.balsamiq.mockups::BreadCrumbs" x="15" y="15" w="-1" h="-1" measuredW="141" measuredH="25" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Informations%2C%20Agent</text>
+      </controlProperties>
+    </control>
+    <control controlID="199" controlTypeID="com.balsamiq.mockups::FieldSet" x="15" y="40" w="419" h="195" measuredW="200" measuredH="170" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Identit%E9</text>
+      </controlProperties>
+    </control>
+    <control controlID="200" controlTypeID="__group__" x="26" y="60" w="396" h="170" measuredW="396" measuredH="170" zOrder="3" locked="false" isInGroup="-1">
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::TextInput" x="186" y="0" w="210" h="-1" measuredW="80" measuredH="29" zOrder="0" locked="false" isInGroup="200">
+          <controlProperties>
+            <text>Agent%20007</text>
+          </controlProperties>
+        </control>
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::Label" x="0" y="3" w="-1" h="-1" measuredW="43" measuredH="25" zOrder="1" locked="false" isInGroup="200">
+          <controlProperties>
+            <text>Nom%20%3A</text>
+          </controlProperties>
+        </control>
+        <control controlID="7" controlTypeID="com.balsamiq.mockups::TextInput" x="186" y="58" w="210" h="-1" measuredW="37" measuredH="29" zOrder="2" locked="false" isInGroup="200">
+          <controlProperties>
+            <text>900</text>
+          </controlProperties>
+        </control>
+        <control controlID="9" controlTypeID="com.balsamiq.mockups::Label" x="0" y="59" w="-1" h="-1" measuredW="117" measuredH="25" zOrder="3" locked="false" isInGroup="200">
+          <controlProperties>
+            <text>Objectif%20annuel%20%3A</text>
+          </controlProperties>
+        </control>
+        <control controlID="12" controlTypeID="com.balsamiq.mockups::TextInput" x="186" y="141" w="210" h="-1" measuredW="236" measuredH="29" zOrder="4" locked="false" isInGroup="200">
+          <controlProperties>
+            <text>kevin.malaime@avecunnompareil.com</text>
+          </controlProperties>
+        </control>
+        <control controlID="13" controlTypeID="com.balsamiq.mockups::Label" x="0" y="142" w="-1" h="-1" measuredW="109" measuredH="25" zOrder="5" locked="false" isInGroup="200">
+          <controlProperties>
+            <text>...cette%20ann%E9e%20%3A</text>
+          </controlProperties>
+        </control>
+        <control controlID="14" controlTypeID="com.balsamiq.mockups::TextInput" x="186" y="29" w="210" h="-1" measuredW="29" measuredH="29" zOrder="6" locked="false" isInGroup="200">
+          <controlProperties>
+            <text>76</text>
+          </controlProperties>
+        </control>
+        <control controlID="15" controlTypeID="com.balsamiq.mockups::Label" x="0" y="30" w="-1" h="-1" measuredW="124" measuredH="25" zOrder="7" locked="false" isInGroup="200">
+          <controlProperties>
+            <text>Potentiel%20mensuel%20%3A</text>
+          </controlProperties>
+        </control>
+        <control controlID="16" controlTypeID="com.balsamiq.mockups::TextInput" x="186" y="112" w="210" h="-1" measuredW="236" measuredH="29" zOrder="8" locked="false" isInGroup="200">
+          <controlProperties>
+            <text>kevin.malaime@avecunnompareil.com</text>
+          </controlProperties>
+        </control>
+        <control controlID="17" controlTypeID="com.balsamiq.mockups::Label" x="0" y="87" w="-1" h="-1" measuredW="162" measuredH="25" zOrder="9" locked="false" isInGroup="200">
+          <controlProperties>
+            <text>Nombre%20de%20contacts...%20%3A</text>
+          </controlProperties>
+        </control>
+        <control controlID="18" controlTypeID="com.balsamiq.mockups::Label" x="0" y="113" w="-1" h="-1" measuredW="78" measuredH="25" zOrder="10" locked="false" isInGroup="200">
+          <controlProperties>
+            <text>...ce%20mois%20%3A</text>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="201" controlTypeID="com.balsamiq.mockups::FieldSet" x="435" y="40" w="419" h="195" measuredW="200" measuredH="170" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Contacts</text>
+      </controlProperties>
+    </control>
+    <control controlID="202" controlTypeID="com.balsamiq.mockups::DataGrid" x="442" y="55" w="405" h="145" measuredW="431" measuredH="148" zOrder="5" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>%2C%20Date%2C%20Client%2C%20Motif%2C%20Status%0A%5BX%5D%2C%2021/12%2C%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%2C%20Fin%20du%20monde%2C%20Pr%E9vu%0A%20%2C%20%20%2C%20%2C%20%20%2C%20%20%0A%5B%20%5D%2C%2010/10%2C%20%2C%20Anniversaire%2C%20R%E9alis%E9%0A%5B%20%5D%2C%2021/12%2C%20%2C%20Fin%20du%20monde%2C%20RDV%20Affect%E9</text>
+      </controlProperties>
+    </control>
+    <control controlID="203" controlTypeID="com.balsamiq.mockups::Button" x="762" y="200" w="-1" h="-1" measuredW="85" measuredH="28" zOrder="6" locked="false" isInGroup="-1">
+      <controlProperties>
+        <icon>SearchIcon%7Cxsmall</icon>
+        <text>D%E9tails</text>
+      </controlProperties>
+    </control>
+    <control controlID="204" controlTypeID="com.balsamiq.mockups::Button" x="657" y="200" w="-1" h="-1" measuredW="105" measuredH="28" zOrder="7" locked="false" isInGroup="-1">
+      <controlProperties>
+        <icon>IndentIcon%7Cxsmall</icon>
+        <text>Regrouper</text>
+      </controlProperties>
+    </control>
+    <control controlID="205" controlTypeID="com.balsamiq.mockups::Button" x="533" y="200" w="-1" h="-1" measuredW="124" measuredH="28" zOrder="8" locked="false" isInGroup="-1">
+      <controlProperties>
+        <icon>CalendarIcon%7Cxsmall</icon>
+        <text>Prendre%20RDV</text>
+      </controlProperties>
+    </control>
+    <control controlID="206" controlTypeID="__group__" x="15" y="233" w="419" h="241" measuredW="419" measuredH="241" zOrder="9" locked="false" isInGroup="-1">
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::FieldSet" x="0" y="0" w="419" h="241" measuredW="200" measuredH="170" zOrder="0" locked="false" isInGroup="206">
+          <controlProperties>
+            <text>Statistiques</text>
+          </controlProperties>
+        </control>
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::LineChart" x="11" y="21" w="396" h="212" measuredW="187" measuredH="175" zOrder="1" locked="false" isInGroup="206"/>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="207" controlTypeID="com.balsamiq.mockups::FieldSet" x="434" y="234" w="419" h="241" measuredW="200" measuredH="170" zOrder="10" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Charge%2C%20occupation</text>
+      </controlProperties>
+    </control>
+    <control controlID="208" controlTypeID="com.balsamiq.mockups::ColumnChart" x="441" y="256" w="398" h="210" measuredW="187" measuredH="175" zOrder="11" locked="false" isInGroup="-1"/>
+    <control controlID="209" controlTypeID="com.balsamiq.mockups::Tree" x="526" y="78" w="138" h="31" measuredW="300" measuredH="225" zOrder="12" locked="false" isInGroup="-1">
+      <controlProperties>
+        <backgroundAlpha>0</backgroundAlpha>
+        <borderStyle>none</borderStyle>
+        <text>%5B+%5D%20R%E9gis%20Bienaim%E9</text>
+      </controlProperties>
+    </control>
+    <control controlID="210" controlTypeID="com.balsamiq.mockups::Tree" x="526" y="109" w="138" h="31" measuredW="300" measuredH="225" zOrder="13" locked="false" isInGroup="-1">
+      <controlProperties>
+        <backgroundAlpha>0</backgroundAlpha>
+        <borderStyle>none</borderStyle>
+        <text>%5B-%5D%20K%E9vin%20Malaim%E9</text>
+      </controlProperties>
+    </control>
+    <control controlID="213" controlTypeID="com.balsamiq.mockups::VCurly" x="864" y="109" w="134" h="91" measuredW="180" measuredH="140" zOrder="14" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Groupe%20de%20contacts%20d%E9velopp%E9</text>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>
