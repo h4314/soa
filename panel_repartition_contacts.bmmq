@@ -1,53 +1,64 @@
-<mockup version="1.0" skin="sketch" measuredW="846" measuredH="280" mockupW="846" mockupH="280">
+<mockup version="1.0" skin="sketch" measuredW="1070" measuredH="396" mockupW="920" mockupH="293">
   <controls>
-    <control controlID="151" controlTypeID="com.balsamiq.mockups::Canvas" x="0" y="0" w="846" h="280" measuredW="100" measuredH="70" zOrder="0" locked="false" isInGroup="-1"/>
-    <control controlID="152" controlTypeID="com.balsamiq.mockups::BreadCrumbs" x="15" y="15" w="-1" h="-1" measuredW="229" measuredH="25" zOrder="1" locked="false" isInGroup="-1">
-      <controlProperties>
-        <text>Gestion%2C%20R%E9partition%20des%20contacts</text>
-      </controlProperties>
+    <control controlID="900" controlTypeID="__group__" x="150" y="103" w="920" h="293" measuredW="920" measuredH="293" zOrder="0" locked="false" isInGroup="-1">
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::Canvas" x="0" y="0" w="920" h="293" measuredW="100" measuredH="70" zOrder="0" locked="false" isInGroup="900"/>
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::BreadCrumbs" x="15" y="13" w="-1" h="-1" measuredW="229" measuredH="25" zOrder="1" locked="false" isInGroup="900">
+          <controlProperties>
+            <text>Gestion%2C%20R%E9partition%20des%20contacts</text>
+          </controlProperties>
+        </control>
+        <control controlID="2" controlTypeID="com.balsamiq.mockups::DataGrid" x="15" y="65" w="469" h="184" measuredW="421" measuredH="178" zOrder="2" locked="false" isInGroup="900">
+          <controlProperties>
+            <text>%2C%20Client%2C%20Motif%2C%20Affect%E9%20%5E%0A%5BX%5D%2C%20R%E9gis%20Bienaim%E9%2C%20Fin%20du%20monde%2C%20N%0A%5B%20%5D%2C%20Napol%E9on%20Bonaparte%2C%20Changement%20de%20situation%2C%20N%0A%5B%20%5D%2C%20Dominique%20Lemalaise%2C%20D%E9m%E9nagement%2C%20N%0A%5BX%5D%2C%20Marine%20Jaidlapeine%2C%20D%E9c%E8s%2C%20N%0A%5B%5D%2C%20Rodolphe%20Free%2C%20contrat%20internet%2C%20Y</text>
+            <verticalScrollbar>true</verticalScrollbar>
+          </controlProperties>
+        </control>
+        <control controlID="3" controlTypeID="com.balsamiq.mockups::Label" x="15" y="38" w="-1" h="-1" measuredW="135" measuredH="25" zOrder="3" locked="false" isInGroup="900">
+          <controlProperties>
+            <text>Ev%E9nements%20pr%E9vus%20%3A</text>
+          </controlProperties>
+        </control>
+        <control controlID="4" controlTypeID="com.balsamiq.mockups::DataGrid" x="495" y="66" w="419" h="181" measuredW="428" measuredH="166" zOrder="4" locked="false" isInGroup="900">
+          <controlProperties>
+            <text>%2C%20Agent%20%5E%2C%20Potentiel%5Crmensuel%2C%20Objectif%5Crannuel%2C%20Contacts%20r%E9alis%E9s%5Crcette%20ann%E9e%0A%28o%29%2C%20Agent%20007%2C%2076%2C%20800%2C%2012%0A%28%29%2C%20Agent%20MAAF%2C%202%2C%2040%2C%201%0A%28%29%2C%20Agent%20Mortimer%2C%2045%2C%20100%2C%2020%0A%28%29%2C%20Agent%20Blake%2C%2040%2C%20100%2C%2023</text>
+            <verticalScrollbar>true</verticalScrollbar>
+          </controlProperties>
+        </control>
+        <control controlID="5" controlTypeID="com.balsamiq.mockups::Label" x="495" y="39" w="-1" h="-1" measuredW="60" measuredH="25" zOrder="5" locked="false" isInGroup="900">
+          <controlProperties>
+            <text>Agents%20%3A</text>
+          </controlProperties>
+        </control>
+        <control controlID="6" controlTypeID="com.balsamiq.mockups::Button" x="383" y="252" w="-1" h="-1" measuredW="101" measuredH="28" zOrder="6" locked="false" isInGroup="900">
+          <controlProperties>
+            <icon>PlusBigIcon%7Cxsmall</icon>
+            <text>Affecter</text>
+          </controlProperties>
+        </control>
+        <control controlID="7" controlTypeID="com.balsamiq.mockups::Button" x="495" y="252" w="-1" h="-1" measuredW="120" measuredH="28" zOrder="7" locked="false" isInGroup="900">
+          <controlProperties>
+            <icon>DashIcon%7Cxsmall</icon>
+            <text>D%E9saffecter</text>
+          </controlProperties>
+        </control>
+        <control controlID="8" controlTypeID="com.balsamiq.mockups::Button" x="825" y="252" w="-1" h="-1" measuredW="89" measuredH="28" zOrder="8" locked="false" isInGroup="900">
+          <controlProperties>
+            <icon>SearchIcon%7Cxsmall</icon>
+            <text>D%E9tails</text>
+          </controlProperties>
+        </control>
+        <control controlID="9" controlTypeID="com.balsamiq.mockups::Button" x="15" y="249" w="-1" h="-1" measuredW="89" measuredH="28" zOrder="9" locked="false" isInGroup="900">
+          <controlProperties>
+            <icon>SearchIcon%7Cxsmall</icon>
+            <text>D%E9tails</text>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
     </control>
-    <control controlID="185" controlTypeID="com.balsamiq.mockups::DataGrid" x="15" y="65" w="405" h="169" measuredW="336" measuredH="148" zOrder="2" locked="false" isInGroup="-1">
+    <control controlID="901" controlTypeID="com.balsamiq.mockups::ComboBox" x="574" y="115" w="-1" h="-1" measuredW="190" measuredH="25" zOrder="1" locked="false" isInGroup="-1">
       <controlProperties>
-        <text>%2C%20Client%2C%20Motif%0A%5BX%5D%2C%20R%E9gis%20Bienaim%E9%2C%20Fin%20du%20monde%0A%5B%20%5D%2C%20Napol%E9on%20Bonaparte%2C%20Changement%20de%20situation%0A%5B%20%5D%2C%20Dominique%20Lemalaise%2C%20D%E9m%E9nagement%0A%5BX%5D%2C%20Marine%20Jaidlapeine%2C%20D%E9c%E8s</text>
-      </controlProperties>
-    </control>
-    <control controlID="187" controlTypeID="com.balsamiq.mockups::Label" x="15" y="40" w="-1" h="-1" measuredW="135" measuredH="25" zOrder="3" locked="false" isInGroup="-1">
-      <controlProperties>
-        <text>Ev%E9nements%20pr%E9vus%20%3A</text>
-      </controlProperties>
-    </control>
-    <control controlID="190" controlTypeID="com.balsamiq.mockups::DataGrid" x="426" y="65" w="405" h="169" measuredW="379" measuredH="76" zOrder="4" locked="false" isInGroup="-1">
-      <controlProperties>
-        <text>%2C%20Agent%2C%20Potentiel%5Crmensuel%2C%20Objectif%5Crannuel%2C%20Contacts%20r%E9alis%E9s%5Crcette%20ann%E9e%0A%28o%29%2C%20Agent%20007%2C%2076%2C%20800%2C%2012</text>
-      </controlProperties>
-    </control>
-    <control controlID="191" controlTypeID="com.balsamiq.mockups::Label" x="426" y="40" w="-1" h="-1" measuredW="60" measuredH="25" zOrder="5" locked="false" isInGroup="-1">
-      <controlProperties>
-        <text>Agents%20%3A</text>
-      </controlProperties>
-    </control>
-    <control controlID="193" controlTypeID="com.balsamiq.mockups::Button" x="318" y="237" w="-1" h="-1" measuredW="101" measuredH="28" zOrder="6" locked="false" isInGroup="-1">
-      <controlProperties>
-        <icon>PlusBigIcon%7Cxsmall</icon>
-        <text>Affecter</text>
-      </controlProperties>
-    </control>
-    <control controlID="194" controlTypeID="com.balsamiq.mockups::Button" x="426" y="237" w="-1" h="-1" measuredW="120" measuredH="28" zOrder="7" locked="false" isInGroup="-1">
-      <controlProperties>
-        <icon>DashIcon%7Cxsmall</icon>
-        <text>D%E9saffecter</text>
-      </controlProperties>
-    </control>
-    <control controlID="195" controlTypeID="com.balsamiq.mockups::Button" x="746" y="237" w="-1" h="-1" measuredW="85" measuredH="28" zOrder="8" locked="false" isInGroup="-1">
-      <controlProperties>
-        <icon>SearchIcon%7Cxsmall</icon>
-        <text>D%E9tails</text>
-      </controlProperties>
-    </control>
-    <control controlID="196" controlTypeID="com.balsamiq.mockups::Button" x="15" y="237" w="-1" h="-1" measuredW="85" measuredH="28" zOrder="9" locked="false" isInGroup="-1">
-      <controlProperties>
-        <icon>SearchIcon%7Cxsmall</icon>
-        <text>D%E9tails</text>
+        <text>Mois%20suivant%20-%20Juin%202011</text>
       </controlProperties>
     </control>
   </controls>

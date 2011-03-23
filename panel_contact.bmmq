@@ -1,137 +1,154 @@
-<mockup version="1.0" skin="sketch" measuredW="869" measuredH="501" mockupW="869" mockupH="501">
+<mockup version="1.0" skin="sketch" measuredW="1130" measuredH="637" mockupW="891" mockupH="528">
   <controls>
-    <control controlID="133" controlTypeID="com.balsamiq.mockups::Canvas" x="0" y="0" w="869" h="501" measuredW="100" measuredH="70" zOrder="0" locked="false" isInGroup="-1"/>
-    <control controlID="134" controlTypeID="com.balsamiq.mockups::BreadCrumbs" x="15" y="15" w="-1" h="-1" measuredW="153" measuredH="25" zOrder="1" locked="false" isInGroup="-1">
-      <controlProperties>
-        <text>Informations%2C%20Contact</text>
-      </controlProperties>
-    </control>
-    <control controlID="135" controlTypeID="com.balsamiq.mockups::FieldSet" x="15" y="40" w="419" h="277" measuredW="200" measuredH="170" zOrder="2" locked="false" isInGroup="-1">
-      <controlProperties>
-        <text>Informations</text>
-      </controlProperties>
-    </control>
-    <control controlID="136" controlTypeID="com.balsamiq.mockups::TextInput" x="183" y="64" w="171" h="-1" measuredW="166" measuredH="29" zOrder="3" locked="false" isInGroup="-1">
-      <controlProperties>
-        <text>K%E9vin%20%26%20Bridget%20Malaim%E9</text>
-      </controlProperties>
-    </control>
-    <control controlID="137" controlTypeID="com.balsamiq.mockups::Label" x="23" y="68" w="-1" h="-1" measuredW="53" measuredH="25" zOrder="4" locked="false" isInGroup="-1">
-      <controlProperties>
-        <text>Client%20%3A</text>
-      </controlProperties>
-    </control>
-    <control controlID="138" controlTypeID="com.balsamiq.mockups::Label" x="23" y="95" w="-1" h="-1" measuredW="126" measuredH="25" zOrder="5" locked="false" isInGroup="-1">
-      <controlProperties>
-        <text>Motif%20de%20contact%20%3A</text>
-      </controlProperties>
-    </control>
-    <control controlID="139" controlTypeID="com.balsamiq.mockups::ComboBox" x="183" y="94" w="237" h="-1" measuredW="182" measuredH="25" zOrder="6" locked="false" isInGroup="-1">
-      <controlProperties>
-        <state>up</state>
-        <text>Changement%20de%20situation</text>
-      </controlProperties>
-    </control>
-    <control controlID="140" controlTypeID="__group__" x="15" y="317" w="419" h="169" measuredW="419" measuredH="169" zOrder="7" locked="false" isInGroup="-1">
+    <control controlID="921" controlTypeID="__group__" x="239" y="109" w="891" h="528" measuredW="891" measuredH="528" zOrder="0" locked="false" isInGroup="-1">
       <groupChildrenDescriptors>
-        <control controlID="0" controlTypeID="com.balsamiq.mockups::FieldSet" x="0" y="0" w="419" h="169" measuredW="200" measuredH="170" zOrder="0" locked="false" isInGroup="140">
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::Canvas" x="0" y="0" w="891" h="528" measuredW="100" measuredH="70" zOrder="0" locked="false" isInGroup="921"/>
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::BreadCrumbs" x="37" y="15" w="-1" h="-1" measuredW="157" measuredH="25" zOrder="1" locked="false" isInGroup="921">
           <controlProperties>
-            <text>Propositions%20commerciales</text>
+            <text>Informations%2C%20Contact</text>
           </controlProperties>
         </control>
-        <control controlID="1" controlTypeID="com.balsamiq.mockups::DataGrid" x="9" y="17" w="396" h="115" measuredW="432" measuredH="88" zOrder="1" locked="false" isInGroup="140">
+        <control controlID="2" controlTypeID="com.balsamiq.mockups::TextInput" x="205" y="64" w="171" h="-1" measuredW="170" measuredH="29" zOrder="2" locked="false" isInGroup="921">
           <controlProperties>
-            <selectedIndex>0</selectedIndex>
-            <text>Offre%2C%20D%E9tails%0AAssurance%20vie%2C%20Au%20point%20o%F9%20il%20en%20est...%0ARecapitalizator%202000%2C%20Le%20produit%20financier%20n%B01%20%E0%20Wall%20Street%20%21</text>
+            <text>K%E9vin%20%26%20Bridget%20Malaim%E9</text>
+          </controlProperties>
+        </control>
+        <control controlID="3" controlTypeID="com.balsamiq.mockups::Label" x="45" y="68" w="-1" h="-1" measuredW="53" measuredH="25" zOrder="3" locked="false" isInGroup="921">
+          <controlProperties>
+            <text>Client%20%3A</text>
+          </controlProperties>
+        </control>
+        <control controlID="4" controlTypeID="com.balsamiq.mockups::Label" x="45" y="95" w="-1" h="-1" measuredW="124" measuredH="25" zOrder="4" locked="false" isInGroup="921">
+          <controlProperties>
+            <text>Motif%20de%20contact%20%3A</text>
+          </controlProperties>
+        </control>
+        <control controlID="5" controlTypeID="com.balsamiq.mockups::ComboBox" x="205" y="94" w="237" h="-1" measuredW="182" measuredH="25" zOrder="5" locked="false" isInGroup="921">
+          <controlProperties>
+            <state>up</state>
+            <text>Changement%20de%20situation</text>
+          </controlProperties>
+        </control>
+        <control controlID="6" controlTypeID="__group__" x="10" y="310" w="453" h="169" measuredW="453" measuredH="169" zOrder="6" locked="false" isInGroup="921">
+          <groupChildrenDescriptors>
+            <control controlID="0" controlTypeID="com.balsamiq.mockups::FieldSet" x="0" y="0" w="453" h="169" measuredW="200" measuredH="170" zOrder="0" locked="false" isInGroup="6">
+              <controlProperties>
+                <text>Propositions%20commerciales</text>
+              </controlProperties>
+            </control>
+            <control controlID="1" controlTypeID="com.balsamiq.mockups::DataGrid" x="10" y="17" w="429" h="115" measuredW="487" measuredH="88" zOrder="1" locked="false" isInGroup="6">
+              <controlProperties>
+                <selectedIndex>0</selectedIndex>
+                <text>Offre%2C%20D%E9tails%2C%20Accept%E9%0AAssurance%20vie%2C%20Au%20point%20o%F9%20il%20en%20est...%2C%20%5B%5D%0ARecapitalizator%202000%2C%20Le%20produit%20financier%20n%B01%20%E0%20Wall%20Street%20%21%2C%20%5B%5D</text>
+                <verticalScrollbar>true</verticalScrollbar>
+              </controlProperties>
+            </control>
+            <control controlID="5" controlTypeID="com.balsamiq.mockups::Button" x="367" y="132" w="75" h="28" measuredW="70" measuredH="28" zOrder="2" locked="false" isInGroup="6">
+              <controlProperties>
+                <text>D%E9tails</text>
+              </controlProperties>
+            </control>
+            <control controlID="6" controlTypeID="com.balsamiq.mockups::Button" x="331" y="132" w="35" h="28" measuredW="33" measuredH="28" zOrder="3" locked="false" isInGroup="6">
+              <controlProperties>
+                <text>-</text>
+              </controlProperties>
+            </control>
+            <control controlID="7" controlTypeID="com.balsamiq.mockups::Button" x="295" y="132" w="35" h="28" measuredW="32" measuredH="28" zOrder="4" locked="false" isInGroup="6">
+              <controlProperties>
+                <text>+</text>
+              </controlProperties>
+            </control>
+          </groupChildrenDescriptors>
+        </control>
+        <control controlID="7" controlTypeID="com.balsamiq.mockups::Button" x="376" y="64" w="65" h="28" measuredW="76" measuredH="32" zOrder="7" locked="false" isInGroup="921">
+          <controlProperties>
+            <icon>SearchIcon%7Csmall</icon>
+            <text>Voir</text>
+          </controlProperties>
+        </control>
+        <control controlID="8" controlTypeID="com.balsamiq.mockups::TextArea" x="205" y="119" w="236" h="113" measuredW="200" measuredH="140" zOrder="8" locked="false" isInGroup="921">
+          <controlProperties>
+            <text>Ses%20actifs%20compromis%20se%20sont%20effondr%E9s%2C%20il%20faut%20recapitaliser%20les%20investisseurs%20potentiels%20pour%20garantir%20un%20revenu%20sans%20dissolution%20sur-num%E9raire.</text>
             <verticalScrollbar>true</verticalScrollbar>
           </controlProperties>
         </control>
-        <control controlID="5" controlTypeID="com.balsamiq.mockups::Button" x="339" y="132" w="-1" h="-1" measuredW="66" measuredH="28" zOrder="2" locked="false" isInGroup="140">
+        <control controlID="9" controlTypeID="com.balsamiq.mockups::Label" x="45" y="119" w="-1" h="-1" measuredW="62" measuredH="25" zOrder="9" locked="false" isInGroup="921">
           <controlProperties>
-            <text>D%E9tails</text>
+            <text>D%E9tails%20%3A</text>
           </controlProperties>
         </control>
-        <control controlID="6" controlTypeID="com.balsamiq.mockups::Button" x="306" y="132" w="33" h="28" measuredW="32" measuredH="28" zOrder="3" locked="false" isInGroup="140">
+        <control controlID="10" controlTypeID="com.balsamiq.mockups::Label" x="45" y="233" w="-1" h="-1" measuredW="53" measuredH="25" zOrder="10" locked="false" isInGroup="921">
           <controlProperties>
-            <text>-</text>
+            <text>Satus%20%3A</text>
           </controlProperties>
         </control>
-        <control controlID="7" controlTypeID="com.balsamiq.mockups::Button" x="273" y="132" w="33" h="28" measuredW="33" measuredH="28" zOrder="4" locked="false" isInGroup="140">
+        <control controlID="11" controlTypeID="com.balsamiq.mockups::ComboBox" x="205" y="232" w="236" h="-1" measuredW="81" measuredH="25" zOrder="11" locked="false" isInGroup="921">
           <controlProperties>
-            <text>+</text>
+            <state>up</state>
+            <text>Pr%E9par%E9</text>
+          </controlProperties>
+        </control>
+        <control controlID="12" controlTypeID="__group__" x="463" y="42" w="419" h="444" measuredW="419" measuredH="444" zOrder="12" locked="false" isInGroup="921">
+          <groupChildrenDescriptors>
+            <control controlID="0" controlTypeID="com.balsamiq.mockups::FieldSet" x="0" y="0" w="419" h="444" measuredW="200" measuredH="170" zOrder="0" locked="false" isInGroup="12">
+              <controlProperties>
+                <text>Compte-rendus</text>
+              </controlProperties>
+            </control>
+            <control controlID="2" controlTypeID="com.balsamiq.mockups::TextArea" x="13" y="48" w="397" h="363" measuredW="200" measuredH="140" zOrder="2" locked="false" isInGroup="12">
+              <controlProperties>
+                <text>Lui%20faire%20comprendre%20qu%27il%20est%20fauch%E9%20%E0%20cause%20de%20quelques%20banques%20aux%20USA.%20A%20faire%20en%20DOUCEUR%20et%20POSITIVER%2C%20cf%20communication%20officielle%20banque</text>
+                <verticalScrollbar>true</verticalScrollbar>
+              </controlProperties>
+            </control>
+            <control controlID="3" controlTypeID="com.balsamiq.mockups::FormattingToolbar" x="10" y="406" w="397" h="-1" measuredW="270" measuredH="29" zOrder="3" locked="false" isInGroup="12"/>
+            <control controlID="4" controlTypeID="com.balsamiq.mockups::TabBar" x="15" y="23" w="-1" h="-1" measuredW="246" measuredH="100" zOrder="1" locked="false" isInGroup="12">
+              <controlProperties>
+                <selectedIndex>0</selectedIndex>
+                <text>Pr%E9paration%2C%20Entretien</text>
+              </controlProperties>
+            </control>
+          </groupChildrenDescriptors>
+        </control>
+        <control controlID="13" controlTypeID="com.balsamiq.mockups::Label" x="45" y="285" w="-1" h="-1" measuredW="121" measuredH="25" zOrder="13" locked="false" isInGroup="921">
+          <controlProperties>
+            <text>Contact%20g%E9r%E9%20par%20%3A</text>
+          </controlProperties>
+        </control>
+        <control controlID="14" controlTypeID="com.balsamiq.mockups::ComboBox" x="205" y="284" w="237" h="-1" measuredW="98" measuredH="25" zOrder="14" locked="false" isInGroup="921">
+          <controlProperties>
+            <state>up</state>
+            <text>Agent%20007</text>
+          </controlProperties>
+        </control>
+        <control controlID="15" controlTypeID="com.balsamiq.mockups::Label" x="45" y="259" w="-1" h="-1" measuredW="48" measuredH="25" zOrder="15" locked="false" isInGroup="921">
+          <controlProperties>
+            <text>Date%20%3A</text>
+          </controlProperties>
+        </control>
+        <control controlID="16" controlTypeID="com.balsamiq.mockups::DateChooser" x="205" y="256" w="236" h="-1" measuredW="165" measuredH="29" zOrder="16" locked="false" isInGroup="921">
+          <controlProperties>
+            <text>09/09/2009%2010%3A00</text>
+          </controlProperties>
+        </control>
+        <control controlID="17" controlTypeID="com.balsamiq.mockups::Button" x="81" y="486" w="330" h="28" measuredW="297" measuredH="32" zOrder="17" locked="false" isInGroup="921">
+          <controlProperties>
+            <icon>FileIcon%7Csmall</icon>
+            <state>disabled</state>
+            <text>G%E9n%E9rer%20rapport%20d%27activit%E9%20commerciale</text>
+          </controlProperties>
+        </control>
+        <control controlID="19" controlTypeID="com.balsamiq.mockups::Label" x="45" y="40" w="-1" h="-1" measuredW="39" measuredH="25" zOrder="18" locked="false" isInGroup="921">
+          <controlProperties>
+            <text>R%E9f%20%3A</text>
+          </controlProperties>
+        </control>
+        <control controlID="20" controlTypeID="com.balsamiq.mockups::TextInput" x="205" y="37" w="171" h="-1" measuredW="67" measuredH="29" zOrder="19" locked="false" isInGroup="921">
+          <controlProperties>
+            <text>AJ43%20-%20</text>
           </controlProperties>
         </control>
       </groupChildrenDescriptors>
-    </control>
-    <control controlID="141" controlTypeID="com.balsamiq.mockups::Button" x="354" y="64" w="65" h="28" measuredW="76" measuredH="32" zOrder="8" locked="false" isInGroup="-1">
-      <controlProperties>
-        <icon>SearchIcon%7Csmall</icon>
-        <text>Voir</text>
-      </controlProperties>
-    </control>
-    <control controlID="142" controlTypeID="com.balsamiq.mockups::TextArea" x="183" y="119" w="236" h="113" measuredW="200" measuredH="140" zOrder="9" locked="false" isInGroup="-1">
-      <controlProperties>
-        <text>Ses%20actifs%20compromis%20se%20sont%20effondr%E9s%2C%20il%20faut%20recapitaliser%20les%20investisseurs%20potentiels%20pour%20garantir%20un%20revenu%20sans%20dissolution%20sur-num%E9raire.</text>
-        <verticalScrollbar>true</verticalScrollbar>
-      </controlProperties>
-    </control>
-    <control controlID="143" controlTypeID="com.balsamiq.mockups::Label" x="23" y="119" w="-1" h="-1" measuredW="59" measuredH="25" zOrder="10" locked="false" isInGroup="-1">
-      <controlProperties>
-        <text>D%E9tails%20%3A</text>
-      </controlProperties>
-    </control>
-    <control controlID="144" controlTypeID="com.balsamiq.mockups::Label" x="23" y="233" w="-1" h="-1" measuredW="52" measuredH="25" zOrder="11" locked="false" isInGroup="-1">
-      <controlProperties>
-        <text>Satus%20%3A</text>
-      </controlProperties>
-    </control>
-    <control controlID="145" controlTypeID="com.balsamiq.mockups::ComboBox" x="183" y="232" w="236" h="-1" measuredW="77" measuredH="25" zOrder="12" locked="false" isInGroup="-1">
-      <controlProperties>
-        <state>up</state>
-        <text>R%E9alis%E9</text>
-      </controlProperties>
-    </control>
-    <control controlID="146" controlTypeID="__group__" x="441" y="42" w="419" h="444" measuredW="419" measuredH="444" zOrder="13" locked="false" isInGroup="-1">
-      <groupChildrenDescriptors>
-        <control controlID="0" controlTypeID="com.balsamiq.mockups::FieldSet" x="0" y="0" w="419" h="444" measuredW="200" measuredH="170" zOrder="0" locked="false" isInGroup="146">
-          <controlProperties>
-            <text>Compte-rendus</text>
-          </controlProperties>
-        </control>
-        <control controlID="1" controlTypeID="com.balsamiq.mockups::TabBar" x="8" y="16" w="398" h="30" measuredW="248" measuredH="100" zOrder="1" locked="false" isInGroup="146">
-          <controlProperties>
-            <text>Pr%E9paration%2C%20Entretien</text>
-          </controlProperties>
-        </control>
-        <control controlID="2" controlTypeID="com.balsamiq.mockups::TextArea" x="10" y="41" w="397" h="363" measuredW="200" measuredH="140" zOrder="2" locked="false" isInGroup="146">
-          <controlProperties>
-            <text>A%20plut%F4t%20bien%20pris%20le%20fait%20qu%27il%20%E9tait%20fauch%E9%20%E0%20cause%20de%20quelques%20banques%20aux%20USA.</text>
-            <verticalScrollbar>true</verticalScrollbar>
-          </controlProperties>
-        </control>
-        <control controlID="3" controlTypeID="com.balsamiq.mockups::FormattingToolbar" x="10" y="406" w="397" h="-1" measuredW="270" measuredH="29" zOrder="3" locked="false" isInGroup="146"/>
-      </groupChildrenDescriptors>
-    </control>
-    <control controlID="147" controlTypeID="com.balsamiq.mockups::Label" x="23" y="285" w="-1" h="-1" measuredW="125" measuredH="25" zOrder="14" locked="false" isInGroup="-1">
-      <controlProperties>
-        <text>Contact%20g%E9r%E9%20par%20%3A</text>
-      </controlProperties>
-    </control>
-    <control controlID="148" controlTypeID="com.balsamiq.mockups::ComboBox" x="183" y="284" w="237" h="-1" measuredW="99" measuredH="25" zOrder="15" locked="false" isInGroup="-1">
-      <controlProperties>
-        <state>up</state>
-        <text>Agent%20007</text>
-      </controlProperties>
-    </control>
-    <control controlID="149" controlTypeID="com.balsamiq.mockups::Label" x="23" y="259" w="-1" h="-1" measuredW="47" measuredH="25" zOrder="16" locked="false" isInGroup="-1">
-      <controlProperties>
-        <text>Date%20%3A</text>
-      </controlProperties>
-    </control>
-    <control controlID="150" controlTypeID="com.balsamiq.mockups::DateChooser" x="183" y="256" w="236" h="-1" measuredW="171" measuredH="29" zOrder="17" locked="false" isInGroup="-1">
-      <controlProperties>
-        <text>09/09/2009%2010%3A00</text>
-      </controlProperties>
     </control>
   </controls>
 </mockup>

@@ -1,4 +1,3 @@
-<<<<<<< HEAD:Agenda
 <mockup version="1.0" skin="sketch" measuredW="2236" measuredH="1394" mockupW="1940" mockupH="1367">
   <controls>
     <control controlID="820" controlTypeID="__group__" x="1066" y="708" w="230" h="144" measuredW="230" measuredH="144" zOrder="1" locked="false" isInGroup="-1">
@@ -29,38 +28,14 @@
     <control controlID="843" controlTypeID="__group__" x="1221" y="928" w="389" h="380" measuredW="389" measuredH="380" zOrder="3" locked="false" isInGroup="-1">
       <groupChildrenDescriptors>
         <control controlID="0" controlTypeID="com.balsamiq.mockups::TitleWindow" x="0" y="0" w="389" h="380" measuredW="450" measuredH="400" zOrder="0" locked="false" isInGroup="843">
-=======
-<mockup version="1.0" skin="sketch" measuredW="990" measuredH="953" mockupW="990" mockupH="953">
-  <controls>
-    <control controlID="116" controlTypeID="com.balsamiq.mockups::Canvas" x="734" y="156" w="242" h="141" measuredW="100" measuredH="70" zOrder="0" locked="false" isInGroup="-1"/>
-    <control controlID="117" controlTypeID="com.balsamiq.mockups::TitleWindow" x="0" y="0" w="976" h="586" measuredW="450" measuredH="400" zOrder="1" locked="false" isInGroup="-1">
-      <controlProperties>
-        <text>Agenda%3EEtienne%20GUERIN</text>
-      </controlProperties>
-    </control>
-    <control controlID="118" controlTypeID="com.balsamiq.mockups::FieldSet" x="8" y="25" w="713" h="523" measuredW="200" measuredH="170" zOrder="2" locked="false" isInGroup="-1">
-      <controlProperties>
-        <text>Juin%202011%20-%20Semaine%2025</text>
-      </controlProperties>
-    </control>
-    <control controlID="119" controlTypeID="__group__" x="17" y="505" w="693" h="32" measuredW="693" measuredH="32" zOrder="3" locked="false" isInGroup="-1">
-      <groupChildrenDescriptors>
-        <control controlID="0" controlTypeID="com.balsamiq.mockups::ComboBox" x="328" y="4" w="-1" h="-1" measuredW="206" measuredH="25" zOrder="0" locked="false" isInGroup="119">
->>>>>>> c44615e447a5f50b6383375d1e9b3f9783f234c3:agenda.bmmq
           <controlProperties>
             <bottomheight>0</bottomheight>
             <text>Inscrire%20RDV%3A%20Contact%20pr%E9vu%20affect%E9</text>
           </controlProperties>
         </control>
-<<<<<<< HEAD:Agenda
         <control controlID="1" controlTypeID="__group__" x="10" y="61" w="367" h="304" measuredW="367" measuredH="304" zOrder="1" locked="false" isInGroup="843">
           <groupChildrenDescriptors>
             <control controlID="1" controlTypeID="com.balsamiq.mockups::Tree" x="0" y="25" w="367" h="163" measuredW="300" measuredH="225" zOrder="0" locked="false" isInGroup="1">
-=======
-        <control controlID="1" controlTypeID="__group__" x="0" y="3" w="320" h="28" measuredW="320" measuredH="28" zOrder="1" locked="false" isInGroup="119">
-          <groupChildrenDescriptors>
-            <control controlID="0" controlTypeID="com.balsamiq.mockups::Button" x="288" y="0" w="-1" h="-1" measuredW="32" measuredH="28" zOrder="0" locked="false" isInGroup="1">
->>>>>>> c44615e447a5f50b6383375d1e9b3f9783f234c3:agenda.bmmq
               <controlProperties>
                 <selectedIndex>0</selectedIndex>
                 <text>_%20J43%20-%20J.%20Dupond%20-%20Renouvellement%20contrat%0A_%20A22%20-%20C.%20Hadock%20-%20Proposition%20PEL%0A_%20X43%20-%20T.Tintin%20-%20Souscription%20Assurance%20Vie</text>
@@ -68,11 +43,7 @@
                 <verticalScrollbar>true</verticalScrollbar>
               </controlProperties>
             </control>
-<<<<<<< HEAD:Agenda
             <control controlID="3" controlTypeID="com.balsamiq.mockups::Label" x="4" y="0" w="-1" h="-1" measuredW="295" measuredH="25" zOrder="3" locked="false" isInGroup="1">
-=======
-            <control controlID="1" controlTypeID="com.balsamiq.mockups::ComboBox" x="32" y="2" w="-1" h="-1" measuredW="253" measuredH="25" zOrder="1" locked="false" isInGroup="1">
->>>>>>> c44615e447a5f50b6383375d1e9b3f9783f234c3:agenda.bmmq
               <controlProperties>
                 <text>Liste%20contact%28s%29%20pr%E9vu%28s%29%20affect%E9%28s%29%20%E0%20traiter%3A</text>
               </controlProperties>
@@ -112,7 +83,6 @@
             </control>
           </groupChildrenDescriptors>
         </control>
-<<<<<<< HEAD:Agenda
         <control controlID="7" controlTypeID="__group__" x="15" y="27" w="322" h="34" measuredW="322" measuredH="34" zOrder="2" locked="false" isInGroup="843">
           <groupChildrenDescriptors>
             <control controlID="0" controlTypeID="com.balsamiq.mockups::Label" x="0" y="3" w="-1" h="-1" measuredW="69" measuredH="25" zOrder="0" locked="false" isInGroup="7">
@@ -248,113 +218,6 @@
           </groupChildrenDescriptors>
         </control>
         <control controlID="1" controlTypeID="com.balsamiq.mockups::CheckBox" x="17" y="388" w="-1" h="-1" measuredW="267" measuredH="24" zOrder="1" locked="false" isInGroup="847">
-=======
-        <control controlID="2" controlTypeID="com.balsamiq.mockups::Button" x="540" y="0" w="-1" h="-1" measuredW="153" measuredH="32" zOrder="2" locked="false" isInGroup="119">
-          <controlProperties>
-            <icon>ColumnsIcon%7Csmall</icon>
-            <text>Vue%20Quotidienne</text>
-          </controlProperties>
-        </control>
-      </groupChildrenDescriptors>
-    </control>
-    <control controlID="120" controlTypeID="__group__" x="17" y="473" w="563" h="32" measuredW="563" measuredH="32" zOrder="4" locked="false" isInGroup="-1">
-      <groupChildrenDescriptors>
-        <control controlID="0" controlTypeID="com.balsamiq.mockups::Button" x="0" y="0" w="-1" h="-1" measuredW="129" measuredH="32" zOrder="0" locked="false" isInGroup="120">
-          <controlProperties>
-            <icon>CircledPlusIcon%7Csmall</icon>
-            <text>Inscrire%20Rdv</text>
-          </controlProperties>
-        </control>
-        <control controlID="1" controlTypeID="com.balsamiq.mockups::Button" x="129" y="0" w="-1" h="-1" measuredW="104" measuredH="32" zOrder="1" locked="false" isInGroup="120">
-          <controlProperties>
-            <icon>SpinningIcon%7Csmall</icon>
-            <text>Modifier</text>
-          </controlProperties>
-        </control>
-        <control controlID="2" controlTypeID="com.balsamiq.mockups::Button" x="233" y="0" w="-1" h="-1" measuredW="122" measuredH="32" zOrder="2" locked="false" isInGroup="120">
-          <controlProperties>
-            <icon>RedoIcon%7Csmall</icon>
-            <text>R%E9affecter</text>
-          </controlProperties>
-        </control>
-        <control controlID="3" controlTypeID="com.balsamiq.mockups::Button" x="355" y="0" w="-1" h="-1" measuredW="99" measuredH="32" zOrder="3" locked="false" isInGroup="120">
-          <controlProperties>
-            <icon>XIcon%7Csmall</icon>
-            <text>Annuler</text>
-          </controlProperties>
-        </control>
-        <control controlID="4" controlTypeID="com.balsamiq.mockups::Button" x="454" y="0" w="-1" h="-1" measuredW="109" measuredH="32" zOrder="4" locked="false" isInGroup="120">
-          <controlProperties>
-            <icon>SearchIcon%7Csmall</icon>
-            <text>Consulter</text>
-          </controlProperties>
-        </control>
-      </groupChildrenDescriptors>
-    </control>
-    <control controlID="121" controlTypeID="__group__" x="731" y="31" w="248" h="523" measuredW="248" measuredH="523" zOrder="5" locked="false" isInGroup="-1">
-      <groupChildrenDescriptors>
-        <control controlID="0" controlTypeID="com.balsamiq.mockups::FieldSet" x="0" y="0" w="243" h="523" measuredW="200" measuredH="170" zOrder="0" locked="false" isInGroup="121">
-          <controlProperties>
-            <text>D%E9tails%20Ev%E8nement</text>
-          </controlProperties>
-        </control>
-        <control controlID="1" controlTypeID="com.balsamiq.mockups::Label" x="13" y="29" w="65" h="29" measuredW="66" measuredH="25" zOrder="1" locked="false" isInGroup="121">
-          <controlProperties>
-            <text>Activit%E9%3A%20</text>
-          </controlProperties>
-        </control>
-        <control controlID="2" controlTypeID="com.balsamiq.mockups::Label" x="13" y="65" w="-1" h="-1" measuredW="46" measuredH="25" zOrder="2" locked="false" isInGroup="121">
-          <controlProperties>
-            <text>Date%3A%20</text>
-          </controlProperties>
-        </control>
-        <control controlID="3" controlTypeID="com.balsamiq.mockups::Label" x="13" y="99" w="-1" h="-1" measuredW="65" measuredH="25" zOrder="3" locked="false" isInGroup="121">
-          <controlProperties>
-            <text>Horaire%3A%20</text>
-          </controlProperties>
-        </control>
-        <control controlID="4" controlTypeID="com.balsamiq.mockups::TextInput" x="78" y="62" w="155" h="-1" measuredW="94" measuredH="29" zOrder="4" locked="false" isInGroup="121">
-          <controlProperties>
-            <state>disabled</state>
-            <text>21%20juin%202011</text>
-          </controlProperties>
-        </control>
-        <control controlID="5" controlTypeID="com.balsamiq.mockups::TextInput" x="76" y="28" w="-1" h="-1" measuredW="172" measuredH="29" zOrder="5" locked="false" isInGroup="121">
-          <controlProperties>
-            <state>disabled</state>
-            <text>Contact%20commercial%20-%20Rdv</text>
-          </controlProperties>
-        </control>
-        <control controlID="6" controlTypeID="com.balsamiq.mockups::TextInput" x="78" y="96" w="155" h="-1" measuredW="70" measuredH="29" zOrder="6" locked="false" isInGroup="121">
-          <controlProperties>
-            <state>disabled</state>
-            <text>9h%20%E0%2010h</text>
-          </controlProperties>
-        </control>
-        <control controlID="7" controlTypeID="com.balsamiq.mockups::Label" x="26" y="137" w="-1" h="-1" measuredW="65" measuredH="25" zOrder="7" locked="false" isInGroup="121">
-          <controlProperties>
-            <text>Contact%3A%20</text>
-          </controlProperties>
-        </control>
-        <control controlID="8" controlTypeID="com.balsamiq.mockups::TextInput" x="104" y="136" w="-1" h="-1" measuredW="120" measuredH="29" zOrder="8" locked="false" isInGroup="121">
-          <controlProperties>
-            <state>disabled</state>
-            <text>J43%20-%20J.%20Dupond</text>
-          </controlProperties>
-        </control>
-        <control controlID="9" controlTypeID="com.balsamiq.mockups::Button" x="59" y="210" w="-1" h="-1" measuredW="129" measuredH="32" zOrder="9" locked="false" isInGroup="121">
-          <controlProperties>
-            <icon>SearchIcon%7Csmall</icon>
-            <text>Voir%20Contact</text>
-          </controlProperties>
-        </control>
-        <control controlID="10" controlTypeID="com.balsamiq.mockups::Label" x="26" y="177" w="-1" h="-1" measuredW="91" measuredH="25" zOrder="10" locked="false" isInGroup="121">
-          <controlProperties>
-            <text>Etat%20contact%3A</text>
-          </controlProperties>
-        </control>
-        <control controlID="11" controlTypeID="com.balsamiq.mockups::TextInput" x="130" y="176" w="94" h="-1" measuredW="62" measuredH="29" zOrder="11" locked="false" isInGroup="121">
->>>>>>> c44615e447a5f50b6383375d1e9b3f9783f234c3:agenda.bmmq
           <controlProperties>
             <icon>FileIcon%7Csmall</icon>
             <state>selected</state>
@@ -363,7 +226,6 @@
         </control>
       </groupChildrenDescriptors>
     </control>
-<<<<<<< HEAD:Agenda
     <control controlID="848" controlTypeID="__group__" x="296" y="31" w="957" h="666" measuredW="957" measuredH="666" zOrder="0" locked="false" isInGroup="-1">
       <groupChildrenDescriptors>
         <control controlID="0" controlTypeID="__group__" x="0" y="0" w="957" h="666" measuredW="957" measuredH="666" zOrder="0" locked="false" isInGroup="848">
@@ -468,45 +330,12 @@
           </groupChildrenDescriptors>
         </control>
         <control controlID="1" controlTypeID="com.balsamiq.mockups::ComboBox" x="346" y="606" w="-1" h="-1" measuredW="206" measuredH="25" zOrder="1" locked="false" isInGroup="849">
-=======
-    <control controlID="122" controlTypeID="com.balsamiq.mockups::FieldSet" x="747" y="367" w="-1" h="-1" measuredW="200" measuredH="170" zOrder="6" locked="false" isInGroup="-1">
-      <controlProperties>
-        <text>Vue%20t%E2che%20contact</text>
-      </controlProperties>
-    </control>
-    <control controlID="123" controlTypeID="com.balsamiq.mockups::TitleWindow" x="52" y="595" w="230" h="156" measuredW="450" measuredH="400" zOrder="7" locked="false" isInGroup="-1">
-      <controlProperties>
-        <close>true</close>
-        <text>Inscrire%20RDV</text>
-      </controlProperties>
-    </control>
-    <control controlID="124" controlTypeID="com.balsamiq.mockups::Button" x="90" y="640" w="167" h="28" measuredW="132" measuredH="28" zOrder="8" locked="false" isInGroup="-1">
-      <controlProperties>
-        <text>Contact%20spontan%E9</text>
-      </controlProperties>
-    </control>
-    <control controlID="125" controlTypeID="com.balsamiq.mockups::Button" x="90" y="683" w="-1" h="-1" measuredW="167" measuredH="28" zOrder="9" locked="false" isInGroup="-1">
-      <controlProperties>
-        <text>Contact%20pr%E9vu%20affect%E9</text>
-      </controlProperties>
-    </control>
-    <control controlID="126" controlTypeID="com.balsamiq.mockups::TitleWindow" x="297" y="595" w="389" h="307" measuredW="450" measuredH="400" zOrder="10" locked="false" isInGroup="-1">
-      <controlProperties>
-        <bottomheight>0</bottomheight>
-        <text>Inscrire%20RDV%3A%20Contact%20spontan%E9</text>
-      </controlProperties>
-    </control>
-    <control controlID="127" controlTypeID="__group__" x="304" y="625" w="367" h="256" measuredW="367" measuredH="256" zOrder="11" locked="false" isInGroup="-1">
-      <groupChildrenDescriptors>
-        <control controlID="0" controlTypeID="com.balsamiq.mockups::SearchBox" x="0" y="25" w="367" h="-1" measuredW="101" measuredH="25" zOrder="0" locked="false" isInGroup="127">
->>>>>>> c44615e447a5f50b6383375d1e9b3f9783f234c3:agenda.bmmq
           <controlProperties>
             <icon>ContactIcon%7Csmall</icon>
             <state>up</state>
             <text>Agent%20Etienne%20GUERIN</text>
           </controlProperties>
         </control>
-<<<<<<< HEAD:Agenda
         <control controlID="2" controlTypeID="__group__" x="18" y="605" w="320" h="28" measuredW="320" measuredH="28" zOrder="2" locked="false" isInGroup="849">
           <groupChildrenDescriptors>
             <control controlID="0" controlTypeID="com.balsamiq.mockups::Button" x="288" y="0" w="-1" h="-1" measuredW="32" measuredH="28" zOrder="0" locked="false" isInGroup="2">
@@ -528,19 +357,12 @@
           </groupChildrenDescriptors>
         </control>
         <control controlID="3" controlTypeID="com.balsamiq.mockups::Button" x="669" y="602" w="-1" h="-1" measuredW="153" measuredH="32" zOrder="3" locked="false" isInGroup="849">
-=======
-        <control controlID="1" controlTypeID="com.balsamiq.mockups::Tree" x="0" y="50" w="367" h="163" measuredW="300" measuredH="225" zOrder="1" locked="false" isInGroup="127">
->>>>>>> c44615e447a5f50b6383375d1e9b3f9783f234c3:agenda.bmmq
           <controlProperties>
             <icon>ColumnsIcon%7Csmall</icon>
             <text>Vue%20Quotidienne</text>
           </controlProperties>
         </control>
-<<<<<<< HEAD:Agenda
         <control controlID="4" controlTypeID="__group__" x="18" y="570" w="563" h="32" measuredW="563" measuredH="32" zOrder="4" locked="false" isInGroup="849">
-=======
-        <control controlID="2" controlTypeID="__group__" x="0" y="228" w="356" h="28" measuredW="356" measuredH="28" zOrder="2" locked="false" isInGroup="127">
->>>>>>> c44615e447a5f50b6383375d1e9b3f9783f234c3:agenda.bmmq
           <groupChildrenDescriptors>
             <control controlID="0" controlTypeID="com.balsamiq.mockups::Button" x="0" y="0" w="-1" h="-1" measuredW="129" measuredH="32" zOrder="0" locked="false" isInGroup="4">
               <controlProperties>
@@ -574,22 +396,13 @@
             </control>
           </groupChildrenDescriptors>
         </control>
-<<<<<<< HEAD:Agenda
         <control controlID="5" controlTypeID="com.balsamiq.mockups::Button" x="607" y="570" w="-1" h="-1" measuredW="215" measuredH="32" zOrder="5" locked="false" isInGroup="849">
-=======
-        <control controlID="3" controlTypeID="com.balsamiq.mockups::Label" x="7" y="0" w="-1" h="-1" measuredW="139" measuredH="25" zOrder="3" locked="false" isInGroup="127">
->>>>>>> c44615e447a5f50b6383375d1e9b3f9783f234c3:agenda.bmmq
           <controlProperties>
             <icon>CellBarsIcon%7Csmall</icon>
             <text>Plannifier%20Activit%E9%20Agence</text>
           </controlProperties>
         </control>
       </groupChildrenDescriptors>
-    </control>
-    <control controlID="128" controlTypeID="com.balsamiq.mockups::Label" x="947" y="928" w="-1" h="-1" measuredW="43" measuredH="25" zOrder="12" locked="false" isInGroup="-1">
-      <controlProperties>
-        <text>h4314</text>
-      </controlProperties>
     </control>
   </controls>
 </mockup>
